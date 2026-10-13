@@ -10,3 +10,5 @@ seaborn
 pytest
 fastapi
 uvicorn[standard]
+
+httpx
