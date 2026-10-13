@@ -225,3 +225,18 @@ data/raw/*
 data/processed/*
 !data/raw/.gitkeep
 !data/processed/.gitkeep
+
+
+# AI-NIDS generated artifacts
+artifacts/*
+!artifacts/README.md
+
+# Keep runtime alerts and trained binaries local
+*.jsonl
+*.pt
+*.pth
+*.joblib
+
+# Python environments and test output
+.venv/
+.pytest_cache/
