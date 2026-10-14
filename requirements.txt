@@ -1,4 +1,4 @@
-
+# Existing AI-NIDS runtime dependencies
 numpy
 pandas
 scikit-learn
@@ -10,5 +10,5 @@ seaborn
 pytest
 fastapi
 uvicorn[standard]
-
 httpx
+streamlit>=1.37

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title">
+<title id="title">AI-NIDS shield</title>
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#527cf0"/><stop offset="1" stop-color="#2446b8"/></linearGradient></defs>
+<path d="M32 4 54 13v17c0 14-9 24-22 30C19 54 10 44 10 30V13z" fill="url(#g)" stroke="#dbe6ff" stroke-width="2"/>
+<path d="m21 32 7 7 15-16" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+</svg>
